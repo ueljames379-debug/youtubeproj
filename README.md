@@ -27,7 +27,11 @@ The project follows a clean and modular architecture:
 
 ## 📸 Screenshots
 
-*(Add your screenshots here later to make it even more impressive!)*
+<p align="center">
+  <img src="assets/screenshots/dashboard.png" width="30%" alt="Dashboard Grid Screen" />
+  <img src="assets/screenshots/campaigns.png" width="30%" alt="New Promotion Campaign Screen" />
+  <img src="assets/screenshots/coins.png" width="30%" alt="Add Coins Store Screen" />
+</p>
 
 ---
 
