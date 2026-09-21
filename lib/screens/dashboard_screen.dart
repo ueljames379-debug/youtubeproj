@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'models/campaign.dart';
-import 'widgets/balance_header.dart';
-import 'widgets/vip_status_card.dart';
-import 'widgets/campaign_carousel.dart';
-import 'widgets/quick_actions.dart';
-import 'widgets/bottom_nav_bar.dart';
+import '../models/campaign.dart';
+import '../widgets/balance_header.dart';
+import '../widgets/vip_status_card.dart';
+import '../widgets/campaign_carousel.dart';
+import '../widgets/quick_actions.dart';
+import '../widgets/bottom_nav_bar.dart';
 import 'add_coins_screen.dart';
 
 class DashboardScreen extends StatefulWidget {
